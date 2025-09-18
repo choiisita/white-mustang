@@ -10,7 +10,7 @@ namespace whitemustang
     {
         static void Main(string[] args)
         {
-            string whitemustang;
+            string whitemustang; 500 days with summer;
         }
     }
 }
